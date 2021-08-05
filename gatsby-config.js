@@ -3,7 +3,7 @@ module.exports = {
     title: `re: function`,
     author: {
       name: `Tyler Henkel`,
-      summary: `I live in Salt Lake City. I love traveling and building things with code.`,
+      summary: `Living in Salt Lake City and building things with code.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
