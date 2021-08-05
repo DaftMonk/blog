@@ -3,7 +3,7 @@ module.exports = {
     title: `refunction`,
     author: {
       name: `Tyler Henkel`,
-      summary: `Living in Salt Lake City and building things with code.`,
+      summary: `Living in Salt Lake City, sharing what I learn in life and in code.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://refunction.io/`,
