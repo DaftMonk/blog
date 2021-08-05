@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `re: function`,
+    title: `refunction`,
     author: {
       name: `Tyler Henkel`,
       summary: `Living in Salt Lake City and building things with code.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://refunction.io/`,
     social: {
       twitter: `tyhenkel`,
     },

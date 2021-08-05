@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+import { Helmet } from "react-helmet"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -29,8 +30,19 @@ const BlogPostTemplate = ({ data, location }) => {
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
-        <hr />
         <footer>
+
+          <section
+            class="newsletter"
+            dangerouslySetInnerHTML={{ __html: '<script async data-uid="18c0bb0841" src="https://upbeat-originator-1100.ck.page/18c0bb0841/index.js"></script>' }}
+          />       
+
+          <section className="link-home-container">
+            <Link className="footer-link-home" to="/">
+              {data.site.siteMetadata.title}
+            </Link>
+          </section>
+
           <Bio />
         </footer>
       </article>

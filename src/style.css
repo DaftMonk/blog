@@ -279,6 +279,17 @@ a:focus {
   margin-bottom: var(--spacing-4);
 }
 
+.link-home-container {
+  margin-bottom: var(--spacing-4);
+}
+
+.footer-link-home {
+  font-weight: var(--fontWeight-bold);
+  font-family: var(--font-heading);
+  text-decoration: none;
+  font-size: var(--fontSize-2);
+}
+
 .header-link-home {
   font-weight: var(--fontWeight-bold);
   font-family: var(--font-heading);
@@ -330,4 +341,8 @@ a:focus {
   ol {
     list-style-position: inside;
   }
+}
+
+.newsletter {
+  margin: 40px 0 40px;
 }
