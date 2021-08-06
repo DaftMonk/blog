@@ -10,13 +10,15 @@ In this article, I'll show you what Tension Journaling is, how it can help you, 
 
 ## What is tension journaling?
 
-If you want to get ahead in life, you have to do things that make you feel uncomfortable.
+Everything you want in life, but don't already have, is outside your comfort zone. 
+
+It is natural for us to fall into the patterns that make us feel comfortable. Some people have bad habits they want to change, like smoking, and they are uncomfortable breaking them. Others want things, a new job, partner, or starting their own business but the necessary discomfort keeps them where they are.
+
+Only by stepping into tension can you expand your reality and get the things that you want out of life.     
 
 Tension journaling helps answer the questions: **Where is my tension? Where am I avoiding conflict? What pain am I choosing to ignore?**
 
-It is easy to get used to what you do every day and not try new things. Some people have bad habits like smoking, and they are uncomfortable breaking them. It is hard for them to quit. If you want to try new things, you have to push yourself outside your comfort zone.
-
-The practice of Tension Journaling is simple. Write down a few places in your life where you can step into a small level of discomfort and tension, and then follow through on those actions. Then reinforce those experiences by reflecting on what you learned later in the day.
+The practice of Tension Journaling is simple. Write down a few places in your life where you can step into a small level of discomfort and tension, and then follow through with action. Finally, reinforce those experiences by reflecting on what you learned later in the day.
 
 ## Why do you want to do tension journaling? (long term benefits)
 
