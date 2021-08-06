@@ -10,7 +10,7 @@ In this article, I'll show you what Tension Journaling is, how it can help you, 
 
 ## What is tension journaling?
 
-Everything you want in life, but don't already have, is outside your comfort zone. 
+Everything you want in life that you don't already have is outside your comfort zone.
 
 It is natural for us to fall into the patterns that make us feel comfortable. Some people have bad habits they want to change, like smoking, and they are uncomfortable breaking them. Others want things, a new job, partner, or starting their own business but the necessary discomfort keeps them where they are.
 
