@@ -1,10 +1,15 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
 import { Helmet } from "react-helmet"
-
+import Signup from "../components/Signup"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+
+
+const systemFont = `system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif`;
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
@@ -33,9 +38,14 @@ const BlogPostTemplate = ({ data, location }) => {
         <footer>
 
           <section
-            class="newsletter"
-            dangerouslySetInnerHTML={{ __html: '<script async data-uid="18c0bb0841" src="https://upbeat-originator-1100.ck.page/18c0bb0841/index.js"></script>' }}
-          />       
+            style={{
+              margin: '40px 0 40px 0',
+              fontFamily: systemFont,
+            }}
+          >
+
+            <Signup/>
+          </section>
 
           <section className="link-home-container">
             <Link className="footer-link-home" to="/">
