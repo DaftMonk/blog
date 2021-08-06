@@ -45,7 +45,7 @@ In the evening, journal the insights you have each day, and then spend 5 min bef
 
 ## My Template for creating a tension journal on Notion
 
-I’m a big fan of Notion. I’ve been using it for 6 months now, and it’s become the go-to software for all my projects, notes, and ideas.
+I’m a big fan of [Notion](www.notion.so). I’ve been using it for 6 months now, and it’s become the go-to software for all my projects, notes, and ideas.
 
 [This template in Notion](https://tyhenkel.notion.site/Tension-Journal-8ab807921e9345d794de0649b06d7ce5) is what I've been using for my tension journal.
 
