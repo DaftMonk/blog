@@ -12,7 +12,7 @@ In this article, I'll show you what Tension Journaling is, how it can help you, 
 
 Everything you want in life that you don't already have is outside your comfort zone.
 
-It is natural for us to fall into the patterns that make us feel comfortable. Some people have bad habits they want to change, like smoking, and they are uncomfortable breaking them. Others want things, a new job, partner, or starting their own business but the necessary discomfort keeps them where they are.
+It is natural for us to follow the patterns that make us feel comfortable. Some people have bad habits they want to change, like smoking, and they are uncomfortable breaking them. Others want things, a new job, partner, or starting their own business but the necessary discomfort keeps them where they are.
 
 Only by stepping into tension can you expand your reality and get the things that you want out of life.     
 
