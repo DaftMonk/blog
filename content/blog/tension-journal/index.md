@@ -12,6 +12,8 @@ In this article, I'll show you what Tension Journaling is, how it can help you, 
 
 Everything you want in life that you don't already have is outside your comfort zone.
 
+![Template](./comfortzone.png)
+
 It is natural for us to follow the patterns that make us feel comfortable. Some people have bad habits they want to change, like smoking, and they are uncomfortable breaking them. Others want things, a new job, partner, or starting their own business but the necessary discomfort keeps them where they are.
 
 Only by stepping into tension can you expand your reality and get the things that you want out of life.     
@@ -45,9 +47,9 @@ In the evening, journal the insights you have each day, and then spend 5 min bef
 
 I’m a big fan of Notion. I’ve been using it for 6 months now, and it’s become the go-to software for all my projects, notes, and ideas.
 
-This template in Notion is what I've been using for my tension journal.
+[This template in Notion](https://tyhenkel.notion.site/Tension-Journal-8ab807921e9345d794de0649b06d7ce5) is what I've been using for my tension journal.
 
-https://tyhenkel.notion.site/Tension-Journal-8ab807921e9345d794de0649b06d7ce5
+[![Template](./template.png)](https://tyhenkel.notion.site/Tension-Journal-8ab807921e9345d794de0649b06d7ce5).
 
 If you have Notion downloaded, all you need to do is click the "duplicate" button in the top right, and it will make a local copy that you can edit and use.
 
