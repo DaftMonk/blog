@@ -5,6 +5,7 @@ import Signup from "../components/Signup"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import { formatPostDate, formatReadingTime } from '../utils/helpers';
 
 
 const systemFont = `system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
@@ -29,7 +30,12 @@ const BlogPostTemplate = ({ data, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p style={{
+              fontSize: '.9rem'
+            }}>
+            {formatPostDate(post.frontmatter.date)}
+            {` • ${formatReadingTime(post.timeToRead)}`}
+          </p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -103,6 +109,7 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
+      timeToRead
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
