@@ -1,3 +1,9 @@
+---
+title: "The Bible: The World's First Self Help Manual"
+date: "2021-12-25T0:00:00.284Z"
+description: "A modern understanding of the bible and how its teachings apply to our lives"
+---
+
 # The Bible: The World's First Self Help Manual
 
 There is a book that has had more of an impact on the history of human thought than any other piece of literature. Though its stories are well known, the true meaning behind what it says can sometimes get lost. The bible is a huge book that contains many different messages and teachings. 
