@@ -85,6 +85,6 @@ These are all quotes showing that a recurring message in the bible is: what we d
 
 In other words, the bible is a book about you. It teaches you about your true self, which is the closest thing to God and the ultimate source of fulfillment. And if you want more fulfillment and happiness in your life, setting yourself free from false egos and desires is the way to get it.
 
-The bible is an old book that was written thousands of years ago. But the main message it provides is still valid today. For instance, God is our true self because we tend to hold on to certain ideas or beliefs that define who we are as a person. When we are close to being our true self then life seems easier and more fulfilling.
+The bible is an old book that was written thousands of years ago. But the main message it provides is still valid today. For instance, God is our true self, but we tend to hold on to certain ideas or beliefs that define who we are as a person. When we are close to being our true self then life seems easier and more fulfilling.
 
 The bible offers a strikingly simple philosophy: Love God. Be kind to others. Love yourself. Do good things.
