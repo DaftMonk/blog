@@ -73,17 +73,31 @@ Even understanding the wrongs that man is commiting, Jesus does not seek to judg
 
 Meaning we can't destroy ourselves and give up on who we are because of the previous mistakes we've made. Even if our actions have led to horrible things happening, we can still ask for forgiveness and redeem ourselves to live up to a higher ideal.
 
+## The Law of Attraction
+
+The concept of the Law of Attraction is simple. What we think about most often, and focus on with our feelings, will become a reality for us.
+
+This is an idea thats said in many places in the Bible. Jesus tells us to feel we have already received our desires: "Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours." 
+
+The Bible repeats this message in many places stating "you will receive whatever you ask in prayer, if you believe." It also says "ask and it shall be given unto you; seek and ye shall find; knock and it shall be opened unto you."
+
+This idea is controversial because it seems so farfetched — thinking something makes it so?
+
+Even without the metaphysical idea that we create our reality through thinking, there are many practical benefits to this method. Telling yourself that you already have what you want not only helps focus your mind on the positive outcome, but also helps release any negative feelings of doubt or frustration associated with trying to get what you want. 
+
+Once you free yourself of those negative feelings, you can begin to open your awareness to opportunities as they present themselves to you, and ultimately take the actions that lead you to what you desire.
+
 ## We are all connected and we are here to help each other
 
 The truth of the matter is, what you put out into the universe will eventually come back to you in some form. Whether it be in a good or bad way. This is why the Bible says, "Whatsoever a man soweth that shall he also reap."
-
-This theory works on all levels of our being. If we want to meet new people and make friends, we can use this principle to find them. We can focus on the qualities we are looking for in a friend and as long as we keep this focus it will be drawn to us. The same goes for love relationships and business partnerships. If we want to attract something into our life there are certain qualities that we have to have ourselves before attracting it into our lives.
 
 Jesus taught this as well, reminding us of the dangers of putting negative things in the world: "Judge not and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven.", 
 
 And encouraging us to put love out into the world so that it comes back to us, that "Thou shalt love thy neighbor as thyself.", and to “Do unto others as you would have them do unto you,”
 
-These are all quotes showing that a recurring message in the bible is: what we do to others is what we receive for ourselves. 
+The belief in karma is very much alive today and can be found in many different religions including Christianity, Hinduism, Buddhism and Jainism. Even though most of these religions have different beliefs about how karma works and what it means for our individual lives, there is one common thread among them: What we do to others is what we receive for ourselves. 
+
+Karma is the universal law of cause and effect. It states that every action has a reaction. This doesn't mean that if someone hurts you, they're going to get hurt back in return. It just means that when we treat others poorly, we have less of a chance of being treated well in return. And when we treat others with kindness and respect, we have more of a chance of being treated well in return.
 
 ## Conclusion
 
