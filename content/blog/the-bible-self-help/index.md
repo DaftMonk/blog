@@ -1,6 +1,6 @@
 ---
 title: "The Bible: The World's First Self Help Manual"
-date: "2021-12-25T0:00:00.284Z"
+date: "2021-12-25"
 description: "A modern understanding of the bible and how its teachings apply to our lives"
 ---
 
