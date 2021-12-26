@@ -999,7 +999,7 @@
     "core-js-pure" "^3.15.0"
     "regenerator-runtime" "^0.13.4"
 
-"@babel/runtime@^7.10.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.11.2", "@babel/runtime@^7.14.6", "@babel/runtime@^7.3.4", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
+"@babel/runtime@^7.10.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.10.3", "@babel/runtime@^7.11.2", "@babel/runtime@^7.14.6", "@babel/runtime@^7.3.4", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
   "integrity" "sha512-twj3L8Og5SaCRCErB4x4ajbvBIVV77CGeFglHpeg5WC5FF8TZzBWXtTJ4MqaD9QszLYTtr+IsaAL2rEUevb+eg=="
   "resolved" "https://registry.npmjs.org/@babel/runtime/-/runtime-7.14.8.tgz"
   "version" "7.14.8"
@@ -6078,6 +6078,14 @@
     "svgo" "1.3.2"
     "uuid" "3.4.0"
 
+"gatsby-plugin-social9-socialshare@^1.0.5":
+  "integrity" "sha512-vz3ZtSxG87CMqNuspmB9GrJ7LV+WODSyD6EYImXlHUUcxQL23ZNta8+QF1nhsl3Yt33PHjD5mhy7dj/WcBnUsQ=="
+  "resolved" "https://registry.npmjs.org/gatsby-plugin-social9-socialshare/-/gatsby-plugin-social9-socialshare-1.0.5.tgz"
+  "version" "1.0.5"
+  dependencies:
+    "@babel/runtime" "^7.10.3"
+    "minimatch" "3.0.4"
+
 "gatsby-plugin-typescript@^3.10.0":
   "integrity" "sha512-nk8sOTpz3+6bfWuwzcwHmovDQzLxlmgVjtiEUouqfmSsvvkNmjSTxINE0imY3dV9Cq4qWXqXz1ux5f0cRr2OxA=="
   "resolved" "https://registry.npmjs.org/gatsby-plugin-typescript/-/gatsby-plugin-typescript-3.10.0.tgz"
@@ -6318,7 +6326,7 @@
   dependencies:
     "@babel/core" "^7.14.6"
 
-"gatsby@^3.0.0-next.0", "gatsby@^3.10.2", "gatsby@>2.0.0-alpha":
+"gatsby@^3.0.0", "gatsby@^3.0.0-next.0", "gatsby@^3.10.2", "gatsby@>2.0.0-alpha":
   "integrity" "sha512-O4Pp1wA20Opkv4OxFkc7asjh9FB/yZxkQcI1FIeDZSUxjPV6PN9smgAy13aVM3dFNp6fMSZkN8pyWQoKc2q1sg=="
   "resolved" "https://registry.npmjs.org/gatsby/-/gatsby-3.10.2.tgz"
   "version" "3.10.2"
@@ -11064,7 +11072,7 @@
     "strip-ansi" "6.0.0"
     "text-table" "0.2.0"
 
-"react-dom@^16.9.0 || ^17.0.0", "react-dom@^17.0.1", "react-dom@15.x || 16.x || 17.x":
+"react-dom@^16.4.2", "react-dom@^16.9.0 || ^17.0.0", "react-dom@^17.0.1", "react-dom@15.x || 16.x || 17.x":
   "integrity" "sha512-6eV150oJZ9U2t9svnsspTMrWNyHc6chX0KzDeAOXftRa8bNeOKTTfCJ7KorIwenkHd2xqVTBTCZd79yk/lx/Ug=="
   "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-17.0.1.tgz"
   "version" "17.0.1"
@@ -11113,7 +11121,7 @@
   "resolved" "https://registry.npmjs.org/react-side-effect/-/react-side-effect-2.1.1.tgz"
   "version" "2.1.1"
 
-"react@^16.3.0 || ^17.0.0", "react@^16.9.0 || ^17.0.0", "react@^17.0.1", "react@>=16.3.0", "react@15.x || 16.x || 17.x", "react@17.0.1":
+"react@^16.3.0 || ^17.0.0", "react@^16.4.2", "react@^16.9.0 || ^17.0.0", "react@^17.0.1", "react@>=16.3.0", "react@15.x || 16.x || 17.x", "react@17.0.1":
   "integrity" "sha512-lG9c9UuMHdcAexXtigOZLX8exLWkW0Ku29qPRU8uhF2R9BN96dLCt0psvzPLlHc5OWkgymP3qwTRgbnw5BKx3w=="
   "resolved" "https://registry.npmjs.org/react/-/react-17.0.1.tgz"
   "version" "17.0.1"

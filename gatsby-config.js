@@ -13,6 +13,14 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: "gatsby-plugin-social9-socialshare",
+      options: {
+        content:  "dd77662e364d4b818bbd80e767090ac3",
+        async: true,
+        defer: true
+      }
+    },
+    {
       resolve: "gatsby-plugin-page-progress",
       options: {
         includePaths: ["/", { regex: "^/.*" }],
