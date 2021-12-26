@@ -12,6 +12,18 @@ module.exports = {
     },
   },
   plugins: [
+    {
+      resolve: "gatsby-plugin-page-progress",
+      options: {
+        includePaths: ["/", { regex: "^/.*" }],
+        excludePaths: ["/"],
+        height: 3,
+        prependToBody: false,
+        color: `#663399`,
+        footerHeight: 500,
+        headerHeight: 0,
+      },
+    },
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
