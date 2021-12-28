@@ -39,7 +39,7 @@ Owning $BURGER token is a way of becoming both an investor/owner, as well as a c
 
 The market value of a burger at this point is $10 USD. The price of a burger is controlled by the DAO, and voted on by token holders who decide if they want a $5 burger or a $15 burger. The pricing of burgers is set in relation to the cost of operating staff ($20/hr) and ingredients ($5/lb). 
 
-To order from the restaurant, customers will have to buy $BURGER tokens on exchange using USD (or another cryptocurrency of value). They then send $10 worth of $BURGER to a smart contract which will burn the tokens, and give them a receipt for their actual meal. This receipt can then be redeemed by someone at the restaurant who supplies them their meal as a form of "proof of service." This constant burning of tokens through purchases creates reliable sell pressure and apprecation on the $BURGER token as the business runs.
+To order from the restaurant, customers will have to buy $BURGER tokens on an exchange using USD (or another cryptocurrency of value). They then send $10 worth of $BURGER to a smart contract which will burn the tokens, and give them a receipt for their actual meal. This receipt can then be redeemed by someone at the restaurant who supplies them their meal as a form of "proof of service." This constant burning of tokens through purchases creates reliable sell pressure and apprecation on the $BURGER token as the business runs.
 
 ## Burger Corp
 
