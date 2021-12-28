@@ -31,7 +31,7 @@ Bob creates The BURGER DAO, a smart contract that facilitates the creation of a 
 
 The contract will receive $200,000 in initial funding from Bob's $BURGER Token sale. These funds are managed collectively by the DAO in a treasury which will be used to fund operations, and provide initial liquidity for a $BURGER/USD LP pool.
 
-The current profitability of the DAO will drive future investment in additional real estate locations, equipment, food, and employees.
+The profitability of the DAO will drive future investment in additional real estate locations, equipment, food, and employees.
 
 ## The Burger Dao Token ( $BURGER ) 
 
