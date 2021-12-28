@@ -49,7 +49,7 @@ This calls for a Decentralized Autonomous Corporation (DAC) that will be control
 
 The process of setting up a DAC is the same as setting up a non-profit, or an LLC. The only difference between them is the bylaws of this corporation will be setup to respect the wishes of the DAO for all decisions related to the assets of the LLC. 
 
-To sign the lease, The DAO will need to elect a treasurer who will manage certain real-world assets in the "Burger Corp". The treasurer will be mandated to sign off on contracts and capital expenditures only when mandated by a vote in the DAO. 
+To sign the lease, the DAO will need to elect a treasurer who will manage certain real-world assets in the "Burger Corp". The treasurer will be mandated to sign off on contracts and capital expenditures only when mandated by a vote in the DAO. 
 
 This structure allows for a legal 'person' to own assets, and sign contracts for the DAO, but still be following the will of the DAO.
 
