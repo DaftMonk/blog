@@ -1,6 +1,6 @@
 ---
 title: "Burger Dao – Building The Ultimate In Decentralized Fast Food"
-date: "2021-12-26"
+date: "2021-12-27"
 description: "Have it your way"
 ---
 ![Burger restaurant](./Burger-with-fries-1024x536.jpg)
